@@ -35,7 +35,7 @@ gem 'bootstrap', '~> 4.0.0.alpha3.1'
 gem 'puma'
 gem 'pg'
 gem 'redis'
-gem 'sinatra', :require => false
+gem 'sinatra', '>= 4.0.0', :require => false
 gem 'devise'
 gem 'rollbar'
 gem 'devise-bootstrap-views'
