@@ -31,7 +31,7 @@ gem 'API_Fuzzer', git: "https://github.com/lalithr95/API-fuzzer.git"
 gem 'highcharts-rails'
 gem 'newrelic_rpm'
 gem 'sidekiq'
-gem 'bootstrap', '~> 4.0.0.alpha3.1'
+gem 'bootstrap', '~> 5.0.0.0.0'
 gem 'puma'
 gem 'pg'
 gem 'redis'
